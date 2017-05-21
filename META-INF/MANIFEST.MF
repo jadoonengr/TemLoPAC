@@ -1,0 +1,13 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: TemLoPAC
+Bundle-SymbolicName: com.modeves.temlopac.plugin;singleton:=true
+Bundle-Version: 3.1.0
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
+Bundle-Vendor: MODEVES
+Require-Bundle: org.eclipse.emf;bundle-version="2.6.0",
+ org.eclipse.uml2.uml;bundle-version="5.1.2",
+ org.eclipse.ui,
+ org.eclipse.papyrus.marte.static.profile;bundle-version="1.1.4"
+Export-Package: marte,
+ observer
