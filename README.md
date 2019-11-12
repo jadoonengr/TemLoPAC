@@ -1,5 +1,6 @@
 # TemLoPAC
-Temporal and Logical Pattern Analyzer and Code Generator
+### Temporal and Logical Pattern Analyzer and Code Generator
+
 This project is about the generation of executable observer code from the high-level temporal and logical patterns defined using UML/MARTE 
 diagrams.
 
